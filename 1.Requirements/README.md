@@ -48,3 +48,12 @@
 * Loss of personal information as important documents require personal data that must be handled with care. 
 * False document possibility as may be some people submit with false identity. 
 * Storage issue as it requires a lot of memory to store all data in a big amount.
+
+## Software Requirements Specification(SRS)
+* • Customers Details • Cash details • Bank Details
+
+## User Requirements
+• View payable Interest • View Loan EMI • View total payable amount (interest + Principal) • View Documents required • Upload Documents • Documents Verification
+
+## Non Functional Requirements
+i. Reliable ii. Usability iii. Availability
