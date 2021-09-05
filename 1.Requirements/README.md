@@ -27,6 +27,8 @@
 
 # SWOT ANALYSIS
 
+![](https://github.com/rajivadak/cpp_miniproject/blob/main/1.Requirements/Swot.png?raw=true)
+
 ## STRENGTHS:
 * Less time consuming.
 * Easy to use.
