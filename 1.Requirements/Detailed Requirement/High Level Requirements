@@ -1,15 +1,16 @@
 ## High Level Requirements for Home and Personal Loans:
 
-•	CIBIL Score is a consumer’s credit score which is a three digit numeric summary of a customer credit history. This is based on post credit behavior, such as borrowing and repayment habits as shared by banks and lenders with CIBIL score.
+•	CIBIL Score is a consumer’s credit score which is a three digit numeric summary of a customer credit history. 
+      This is based on post credit behavior, such as borrowing and repayment habits as shared by banks and lenders with CIBIL score.
 •	Eligibility criteria for home loans are:
-•	Gross Income (Monthly): Input gross monthly income. NRI should input net income.
-•	Loan Tenure (In Years): Input the desired loan term for which you wish to avail the loan.
-•	Interest Rate (% P.A): Input prevailing loan interest rate.
-•	Other EMIs (Monthly): Input the EMIs of the other loans you have.
+            Gross Income (Monthly): Input gross monthly income. NRI should input net income.
+            Loan Tenure (In Years): Input the desired loan term for which you wish to avail the loan.
+            Interest Rate (% P.A): Input prevailing loan interest rate.
+            Other EMIs (Monthly): Input the EMIs of the other loans you have.
 •	Eligibility criteria for personal loans are:
-•	Employees of select private limited companies, employees from public sector undertakings, including central, state and local bodies.
-•	Individuals between 21 and 60 years of age.
-•	Individuals who have had a job for at least 2 years, with a minimum of 1 year with the current employer.
+            Employees of select private limited companies, employees from public sector undertakings, including central, state and local bodies.
+            Individuals between 21 and 60 years of age.
+            Individuals who have had a job for at least 2 years, with a minimum of 1 year with the current employer.
 
 ## Documents Required:
 
