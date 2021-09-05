@@ -4,10 +4,9 @@
 
 Folder |  Description
 ------------- | -------------
-1 _requirements | Documents Detailing requirements ad research
-2 _design  | Documents specifying design details
-3 _testPlan | All code and documentation
-4 _testCase | Documents with test plans and procedures
+1 Requirements | Documents Detailing requirements ad research
+2 Design  | Documents specifying design details
+3 TestPlan | All code and documentation
 
 # Contributors List
 
