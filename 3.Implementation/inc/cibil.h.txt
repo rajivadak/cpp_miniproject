@@ -1,0 +1,6 @@
+#ifndef CIBILSCORE_H
+#define CIBILSCORE_H
+
+void cibilscore();
+
+#endif
