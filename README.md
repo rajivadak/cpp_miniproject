@@ -1,5 +1,9 @@
 # Loan Calculator
 
+Build |
+|-----|
+[![CI](https://github.com/rajivadak/cpp_miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/rajivadak/cpp_miniproject/actions/workflows/main.yml)
+
 # Folder Structure
 
 Folder |  Description
