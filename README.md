@@ -8,6 +8,7 @@ Folder |  Description
 2 Design  | Documents specifying design details
 3 TestPlan | All code and documentation
 
+
 # Contributors List
 
 Name                     |  PS No.   | Features                         | Issues Raised       | Issues Resolved
@@ -15,7 +16,7 @@ Name                     |  PS No.   | Features                         | Issues
 `1) T.Rohan Kumar`     | 99005805  |4 W's and H and Feasibility Study | on design           | design issue is resolved
 `2) Kumar Ritesh`         | 99005774  |Software Requirement Specification| on workflow         | workflow issue is reolved
 `3) Sushmi Reddy Kusa`       | 99005781  |SWOT Analysis                     | on requirement      | requirement issue is resolved
-`4) Hema Sai Reddy`| 99005827  |Behavioral Diagram                | on sequence diagram | Sequence Diagram is resolved
+`4) G.Hema Sai Reddy`| 99005827  |Behavioral Diagram                | on sequence diagram | Sequence Diagram is resolved
 `5) Rajiv Adak`         | 99005769  |Structural Diagram                | on Class Diagram    | Class Diagram is resolved
 
 # CIBIL Score WorkFlow 
@@ -38,7 +39,7 @@ Name | PS Number | No. of Test Cases | No. of Test Cases Passed | No. of Test Ca
 `1) T.Rohan Kumar`        | 99005805  |0    | 0   | 0
 `2) Kumar Ritesh`         | 99005774  |0    | 0   | 0
 `3) Sushmi Reddy Kusa`    | 99005781  |0    | 0   | 0
-`4) Hema Sai Reddy`       | 99005827  |0    | 0   | 0
+`4) G.Hema Sai Reddy`       | 99005827  |0    | 0   | 0
 `5) Rajiv Adak`           | 99005769  |0    | 0   | 0
 
 # Challenges
