@@ -1,8 +1,8 @@
 # Loan Calculator
 
-Build |
-|-----|
-[![CI](https://github.com/rajivadak/cpp_miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/rajivadak/cpp_miniproject/actions/workflows/main.yml)
+Build | Cppcheck |
+|-----|----------|
+[![CI](https://github.com/rajivadak/cpp_miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/rajivadak/cpp_miniproject/actions/workflows/main.yml) |[![Cppcheck](https://github.com/rajivadak/cpp_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/rajivadak/cpp_miniproject/actions/workflows/cppcheck.yml)
 
 # Folder Structure
 
