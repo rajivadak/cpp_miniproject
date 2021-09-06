@@ -1,5 +1,9 @@
 # Loan Calculator
 
+Build | Cppcheck |
+|-----|----------|
+[![CI](https://github.com/rajivadak/cpp_miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/rajivadak/cpp_miniproject/actions/workflows/main.yml) |[![Cppcheck](https://github.com/rajivadak/cpp_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/rajivadak/cpp_miniproject/actions/workflows/cppcheck.yml)
+
 # Folder Structure
 
 Folder |  Description
@@ -8,15 +12,16 @@ Folder |  Description
 2 Design  | Documents specifying design details
 3 TestPlan | All code and documentation
 
+
 # Contributors List
 
-Name                     |  PS No.   | Features                         | Issues Raised       | Issues Resolved
--------------------------|-----------|----------------------------------|---------------------|---------------------------------
-`1) T.Rohan Kumar`     | 99005805  |4 W's and H and Feasibility Study | on design           | design issue is resolved
-`2) Kumar Ritesh`         | 99005774  |Software Requirement Specification| on workflow         | workflow issue is reolved
-`3) Sushmi Reddy Kusa`       | 99005781  |SWOT Analysis                     | on requirement      | requirement issue is resolved
-`4) Hema Sai Reddy`| 99005827  |Behavioral Diagram                | on sequence diagram | Sequence Diagram is resolved
-`5) Rajiv Adak`         | 99005769  |Structural Diagram                | on Class Diagram    | Class Diagram is resolved
+Name                     |  PS No.   | Features                         
+-------------------------|-----------|----------------------------------
+`1) Kumar Ritesh`         | 99005774  |Software Requirement Specification
+`2) Sushmi Reddy Kusa`       | 99005781  |SWOT Analysis  
+`3) T.Rohan Kumar`     | 99005805  |4 W's and H and Feasibility Study 
+`4) G.Hema Sai Reddy`| 99005827  |Behavioral Diagram                
+`5) Rajiv Adak`         | 99005769  |Structural Diagram                
 
 # CIBIL Score WorkFlow 
 ![Screenshot (72)](https://user-images.githubusercontent.com/65916282/132113720-9ca305de-b9f0-4591-8bab-0d83cfb756d1.png)
@@ -31,15 +36,6 @@ Name                     |  PS No.   | Features                         | Issues
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/65916282/132114047-b0075709-6636-4c48-b39b-ac64cc07a493.png)
 
-# Test Summary
-
-Name | PS Number | No. of Test Cases | No. of Test Cases Passed | No. of Test Cases not Passed 
------|-----------|-------------------|--------------------------|------------------------------
-`1) T.Rohan Kumar`        | 99005805  |0    | 0   | 0
-`2) Kumar Ritesh`         | 99005774  |0    | 0   | 0
-`3) Sushmi Reddy Kusa`    | 99005781  |0    | 0   | 0
-`4) Hema Sai Reddy`       | 99005827  |0    | 0   | 0
-`5) Rajiv Adak`           | 99005769  |0    | 0   | 0
 
 # Challenges
 
