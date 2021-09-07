@@ -44,7 +44,7 @@ Name                     |  PS No.   | Features
 3. Difficulty in implementing the test plan
 4. Difficulty in constructing the makefile
 
-## Learning folder
+## Learning Folder
 1. [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [git inspector](https://github.com/ejwa/gitinspector.git)
 3. [github workflow](https://docs.github.com/en/actions/learn-github-action)
