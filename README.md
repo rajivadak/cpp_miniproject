@@ -20,7 +20,7 @@ Name                     |  PS No.   | Features
 `1) Kumar Ritesh`         | 99005774  |Software Requirement Specification
 `2) Sushmi Reddy Kusa`       | 99005781  |SWOT Analysis  
 `3) T.Rohan Kumar`     | 99005805  |4 W's and H and Feasibility Study 
-`4) G.Hema Sai Reddy`| 99005827  |Behavioral Diagram                
+`4) Hema Sai Reddy`| 99005827  |Behavioral Diagram                
 `5) Rajiv Adak`         | 99005769  |Structural Diagram                
 
 # CIBIL Score WorkFlow 
